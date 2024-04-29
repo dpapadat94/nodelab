@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-lab",
+  "version": "1.0.0",
+  "description": "Covalence NodeJS lab re-working Chirper concept with Node.",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryantellius/nodejs-lab.git"
+  },
+  "author": "Ben Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryantellius/nodejs-lab/issues"
+  },
+  "homepage": "https://github.com/Bryantellius/nodejs-lab#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
